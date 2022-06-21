@@ -1,0 +1,12 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "Algrithem for calculating suitable human sleep time based on needs and conditions",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "12.4.0",
+    "com.apple.createml.app.tag" : "78.8",
+    "com.apple.coreml.model.preview.type" : "tabularRegressor",
+    "com.apple.createml.app.version" : "3.0"
+  },
+  "MLModelAuthorKey" : "Adam Chen JingFan",
+  "MLModelLicenseKey" : "--"
+}
